@@ -1,0 +1,21 @@
+// js
+import 'angular';
+import 'angular-animate';
+import 'angular-translate';
+import 'angularjs-toaster/toaster.min.js';
+import 'jquery';
+import 'bootstrap/dist/js/bootstrap.min.js';
+import '@lordfriend/nya-bootstrap-select/dist/js/nya-bs-select.min.js';
+import 'angular-ui-bootstrap';
+import 'textangular/dist/textAngular-sanitize.min.js';
+import 'textangular/dist/textAngular.min.js';
+import 'easy-form-generator/dist/eda.stepway.js';
+
+// style
+import 'font-awesome/css/font-awesome.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '@lordfriend/nya-bootstrap-select/dist/css/nya-bs-select.min.css';
+import 'bootswatch/paper/bootstrap.min.css';
+import 'angularjs-toaster/toaster.min.css';
+import 'textangular/dist/textAngular.css';
+import 'easy-form-generator/dist/eda.stepway.css';

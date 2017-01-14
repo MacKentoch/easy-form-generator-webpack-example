@@ -1,0 +1,48 @@
+{
+  "name": "easy-form-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=dev webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MacKentoch <erwan.datin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@lordfriend/nya-bootstrap-select": "^2.1.10",
+    "angular": "^1.6.1",
+    "angular-animate": "^1.6.1",
+    "angular-translate": "^2.13.1",
+    "angular-ui-bootstrap": "^2.4.0",
+    "angularjs-toaster": "^2.1.0",
+    "bootstrap": "^3.3.7",
+    "bootswatch": "^3.3.7",
+    "easy-form-generator": "^2.1.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
+    "textangular": "^1.5.16"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.6.1",
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.21.0",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-2": "^6.18.0",
+    "babel-register": "^6.18.0",
+    "css-loader": "^0.26.1",
+    "eslint": "^3.13.1",
+    "expose-loader": "^0.7.1",
+    "file-loader": "^0.9.0",
+    "json-loader": "^0.5.4",
+    "node-sass": "^4.3.0",
+    "postcss-loader": "^1.2.2",
+    "precss": "^1.4.0",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.14.0"
+  }
+}
