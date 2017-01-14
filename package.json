@@ -1,14 +1,14 @@
 {
-  "name": "easy-form-debug",
+  "name": "easy-form-generator-webpack-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "easyFormGenerator use case exmaple in ES6+ with webpack",
   "main": "index.js",
   "scripts": {
     "dev": "NODE_ENV=dev webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MacKentoch <erwan.datin@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@lordfriend/nya-bootstrap-select": "^2.1.10",
     "angular": "^1.6.1",
