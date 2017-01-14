@@ -12,7 +12,7 @@ const APP_MODULE_INJECT = [
   'ui.bootstrap',
   'nya.bootstrap.select',
   'pascalprecht.translate',
-	'eda.easyformGen.stepway',
+  'eda.easyformGen.stepway',
   DemoController.name
 ];
 
