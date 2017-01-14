@@ -2,6 +2,35 @@
 
 > Use case example in a **ES6+** application with `webpack`.
 
+## hack it
+
+**clone this repo:**
+
+```bash
+git clone https://github.com/MacKentoch/easy-form-generator-webpack-example.git
+```
+
+**install dependencies:**
+```bash
+npm install
+```
+
+or 
+
+```bash
+yarn install
+```
+
+**hack it:**
+
+> Do what you want to with it (*you cloned it is yours now*).
+
+**and finally bundle:**
+
+```bash
+npm run dev
+```
+
 
 ## License
 
