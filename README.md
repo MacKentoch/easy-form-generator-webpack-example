@@ -2,6 +2,8 @@
 
 > Use case example in a **ES6+** application with `webpack`.
 
+[What does it look like? Just see here](https://mackentoch.github.io/easy-form-generator-webpack-example/)
+
 ## hack it
 
 **clone this repo:**
