@@ -1,8 +1,6 @@
 # easyFormGenerator use case example
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/Mp96tCWH2KdajZuBzqB6jwj8/MacKentoch/easy-form-generator-webpack-example'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/Mp96tCWH2KdajZuBzqB6jwj8/MacKentoch/easy-form-generator-webpack-example.svg' />
-</a>
+
 
 > Use case example in a **ES6+** application with `webpack`.
 
